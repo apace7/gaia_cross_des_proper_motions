@@ -1,5 +1,5 @@
 # gaia_cross_des_proper_motions
 
-repository for Gaia cross DES proper motion project.
+repository for Gaia DR2 x DES DR1 proper motion project.
 
-included are tarballs of plots and mcmc (nested sampling) chains
+Included are diagnostic plots, corner plots, posteriors (chains), fits files with membership information.
