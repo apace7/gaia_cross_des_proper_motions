@@ -1,0 +1,12 @@
+Columns:
+Weight
+satellite mean pmra
+satellite mean pmdec
+MW mean pmra
+MW mean pmdec
+MW dispersion pmra, log10 space/Jeffreys prior
+MW dispersion pmdec, log10 space/Jeffreys prior
+fraction MW
+
+In order to properly derive statistics the weight column must be used.  
+Note that most of early part of chain can be removed because the weight is so low.
